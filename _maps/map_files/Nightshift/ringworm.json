@@ -1,7 +1,7 @@
 {
 	"version": 1,
 	"map_name": "ringworm",
-	"map_path": "map_files/ringworm",
+	"map_path": "map_files/Nightshift",
 	"map_file": "ringworm.dmm",
 	"shuttles": {
 		"emergency": "emergency_skyrat",
