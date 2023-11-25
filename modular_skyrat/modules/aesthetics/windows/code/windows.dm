@@ -2,10 +2,6 @@
 	icon = 'modular_skyrat/modules/aesthetics/windows/icons/window.dmi'
 	canSmoothWith = SMOOTH_GROUP_AIRLOCK + SMOOTH_GROUP_WINDOW_FULLTILE + SMOOTH_GROUP_WALLS
 
-/obj/structure/window/reinforced/fulltile
-	icon = 'modular_skyrat/modules/aesthetics/windows/icons/r_window.dmi'
-	canSmoothWith = SMOOTH_GROUP_AIRLOCK + SMOOTH_GROUP_WINDOW_FULLTILE + SMOOTH_GROUP_WALLS
-
 /obj/structure/window/reinforced/tinted/fulltile
 	icon = 'modular_skyrat/modules/aesthetics/windows/icons/r_window_tinted.dmi'
 	icon_state = "reinforced_window-0"
@@ -25,3 +21,19 @@
 	canSmoothWith = SMOOTH_GROUP_AIRLOCK + SMOOTH_GROUP_WINDOW_FULLTILE + SMOOTH_GROUP_WALLS
 
 /obj/structure/window/reinforced/fulltile/ice
+
+
+
+
+
+
+
+
+
+obj/structure/window/reinforced/fulltile
+	icon = 'modular_skyrat/modules/aesthetics/windows/icons/r_window.dmi'
+	canSmoothWith = SMOOTH_GROUP_AIRLOCK + SMOOTH_GROUP_WINDOW_FULLTILE + SMOOTH_GROUP_WALLS
+
+/obj/structure/window/reinforced/plasma/plastitanium
+	icon = 'modular_skyrat/modules/aesthetics/windows/icons/plastitanium_window.dmi'
+	canSmoothWith = SMOOTH_GROUP_AIRLOCK + SMOOTH_GROUP_WINDOW_FULLTILE + SMOOTH_GROUP_WALLS

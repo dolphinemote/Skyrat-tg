@@ -182,9 +182,7 @@
 /obj/machinery/door/airlock/security
 	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station/security.dmi'
 
-/obj/machinery/door/airlock/security/old
-	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station/security2.dmi'
-	assemblytype = /obj/structure/door_assembly/door_assembly_sec/old
+
 
 /obj/machinery/door/airlock/security/old/glass
 	opacity = FALSE
@@ -320,11 +318,31 @@
 /obj/machinery/door/airlock/wood
 	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station/wood.dmi'
 
+
+
+
+
+
+//
+
 //STATION 2 AIRLOCKS
 
 /obj/machinery/door/airlock/public
 	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station2/glass.dmi'
 	overlays_file = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station2/overlays.dmi'
+
+//
+
+// PSEUDOWALLENING
+/obj/machinery/door/airlock/security/old
+	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station2/security2.dmi'
+	overlays_file = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station2/overlays_pseudowallening.dmi'
+	assemblytype = /obj/structure/door_assembly/door_assembly_sec/old
+/obj/structure/door_assembly/door_assembly_sec/old
+	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station2/security2.dmi'
+
+
+
 
 //EXTERNAL AIRLOCKS
 /obj/machinery/door/airlock/external
@@ -394,8 +412,7 @@
 /obj/structure/door_assembly/door_assembly_sec
 	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station/security.dmi'
 
-/obj/structure/door_assembly/door_assembly_sec/old
-	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station/security2.dmi'
+
 
 /obj/structure/door_assembly/door_assembly_eng
 	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station/engineering.dmi'

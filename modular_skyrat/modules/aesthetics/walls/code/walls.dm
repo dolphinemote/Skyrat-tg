@@ -24,3 +24,12 @@
 	icon = 'modular_skyrat/modules/aesthetics/walls/icons/material_wall.dmi'
 	icon_state = "wall-0"
 	base_icon_state = "wall"
+
+/turf/closed/wall/plastitanium_wall
+	icon = 'modular_skyrat/modules/aesthetics/walls/icons/plastitanium_wall.dmi'
+	canSmoothWith = SMOOTH_GROUP_AIRLOCK + SMOOTH_GROUP_WINDOW_FULLTILE + SMOOTH_GROUP_WALLS
+
+
+/turf/closed/wall/r_wall/syndicate
+	icon = 'modular_skyrat/modules/aesthetics/walls/icons/plastitanium_wall.dmi'
+	canSmoothWith = SMOOTH_GROUP_AIRLOCK + SMOOTH_GROUP_WINDOW_FULLTILE + SMOOTH_GROUP_WALLS
