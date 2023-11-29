@@ -30,7 +30,7 @@
 
 
 
-obj/structure/window/reinforced/fulltile
+/obj/structure/window/reinforced/fulltile
 	icon = 'modular_skyrat/modules/aesthetics/windows/icons/r_window.dmi'
 	canSmoothWith = SMOOTH_GROUP_AIRLOCK + SMOOTH_GROUP_WINDOW_FULLTILE + SMOOTH_GROUP_WALLS
 

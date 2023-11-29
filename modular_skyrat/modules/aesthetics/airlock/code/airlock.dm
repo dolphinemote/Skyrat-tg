@@ -341,6 +341,16 @@
 /obj/structure/door_assembly/door_assembly_sec/old
 	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station2/security2.dmi'
 
+/obj/machinery/door/airlock/centcom
+	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station2/centcom.dmi'
+	overlays_file = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station2/overlays_pseudowallening.dmi'
+
+/obj/machinery/door/airlock/grunge
+	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station2/centcom.dmi'
+	overlays_file = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/station2/overlays_pseudowallening.dmi'
+
+
+
 
 
 
@@ -349,14 +359,6 @@
 	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/external/external.dmi'
 	overlays_file = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/external/overlays.dmi'
 
-//CENTCOM
-/obj/machinery/door/airlock/centcom
-	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/centcom/centcom.dmi'
-	overlays_file = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/centcom/overlays.dmi'
-
-/obj/machinery/door/airlock/grunge
-	icon = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/centcom/centcom.dmi'
-	overlays_file = 'modular_skyrat/modules/aesthetics/airlock/icons/airlocks/centcom/overlays.dmi'
 
 //VAULT
 /obj/machinery/door/airlock/vault
