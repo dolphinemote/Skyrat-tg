@@ -73,7 +73,7 @@
 "aT" = (
 /obj/structure/table/reinforced,
 /obj/item/surgery_tray,
-/turf/open/floor/iron/white,
+/turf/open/floor/plating,
 /area/space)
 "be" = (
 /obj/machinery/newscaster/directional/north,
@@ -101,6 +101,10 @@
 	dir = 8
 	},
 /turf/open/floor/iron/dark,
+/area/space)
+"bw" = (
+/obj/machinery/nuclearbomb/selfdestruct,
+/turf/open/floor/iron,
 /area/space)
 "bB" = (
 /obj/machinery/door/airlock/maintenance/glass,
@@ -459,6 +463,10 @@
 /obj/structure/table/reinforced,
 /turf/open/floor/iron/dark/smooth_large,
 /area/space)
+"hG" = (
+/obj/structure/chair/sofa/left/brown,
+/turf/open/floor/wood,
+/area/space)
 "hJ" = (
 /turf/open/floor/plating,
 /area/space)
@@ -788,6 +796,10 @@
 /obj/machinery/door/firedoor,
 /turf/open/floor/iron/dark,
 /area/space)
+"nJ" = (
+/obj/machinery/door/airlock/highsecurity,
+/turf/open/floor/iron,
+/area/space)
 "nL" = (
 /obj/structure/rack/shelf,
 /obj/item/restraints/handcuffs/cable/green,
@@ -903,6 +915,12 @@
 	},
 /turf/open/floor/iron/dark,
 /area/space)
+"qT" = (
+/obj/structure/toilet{
+	pixel_y = 16
+	},
+/turf/open/floor/iron,
+/area/space)
 "ra" = (
 /obj/machinery/atmospherics/pipe/layer_manifold/general/hidden{
 	dir = 8
@@ -966,6 +984,10 @@
 	dir = 8
 	},
 /turf/open/floor/iron/dark/small,
+/area/space)
+"sG" = (
+/obj/structure/table/wood,
+/turf/open/floor/carpet/red,
 /area/space)
 "sJ" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer2{
@@ -1046,7 +1068,7 @@
 "tB" = (
 /obj/machinery/newscaster/directional/north,
 /obj/machinery/holopad,
-/turf/open/floor/iron/dark,
+/turf/open/floor/iron,
 /area/space)
 "tN" = (
 /obj/structure/railing/corner/end,
@@ -1414,6 +1436,11 @@
 /obj/machinery/light/small/blacklight/directional/west,
 /turf/open/floor/iron,
 /area/space)
+"BF" = (
+/obj/structure/sink/directional/west,
+/obj/structure/mirror/directional/east,
+/turf/open/floor/iron,
+/area/space)
 "Cd" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 1
@@ -1638,6 +1665,12 @@
 /turf/closed/mineral/random/asteroid{
 	mineralChance = 0
 	},
+/area/space)
+"FX" = (
+/obj/structure/chair/office/light{
+	dir = 4
+	},
+/turf/open/floor/carpet/red,
 /area/space)
 "Ga" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -2074,6 +2107,9 @@
 /obj/structure/window/fulltile,
 /turf/open/floor/iron/dark/small,
 /area/space)
+"OC" = (
+/turf/open/floor/wood,
+/area/space)
 "OH" = (
 /obj/structure/table,
 /turf/open/floor/iron/dark/side{
@@ -2113,6 +2149,10 @@
 /turf/open/floor/iron/stairs/medium{
 	dir = 8
 	},
+/area/space)
+"Pr" = (
+/obj/machinery/newscaster/directional/east,
+/turf/open/floor/wood,
 /area/space)
 "PF" = (
 /obj/structure/table/reinforced/plastitaniumglass,
@@ -2222,6 +2262,10 @@
 	dir = 5
 	},
 /turf/open/floor/iron/dark/small,
+/area/space)
+"Re" = (
+/obj/structure/chair/sofa/right/brown,
+/turf/open/floor/wood,
 /area/space)
 "Rm" = (
 /obj/structure/table/reinforced,
@@ -2627,6 +2671,10 @@
 /obj/machinery/computer/shuttle/mining/common,
 /obj/effect/turf_decal/tile/neutral/fourcorners,
 /turf/open/floor/iron/dark,
+/area/space)
+"YW" = (
+/obj/effect/turf_decal/tile/neutral/opposingcorners,
+/turf/open/floor/iron,
 /area/space)
 "Zv" = (
 /obj/structure/rack/shelf,
@@ -23440,15 +23488,15 @@ fs
 fs
 fs
 fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
+ok
+ok
+ok
+ok
+ok
+ok
+ok
+ok
+ok
 fs
 fs
 fs
@@ -23697,15 +23745,15 @@ fs
 fs
 fs
 fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
+ok
+qk
+qk
+OC
+OC
+OC
+qk
+qk
+ok
 fs
 fs
 fs
@@ -23940,9 +23988,9 @@ rh
 aT
 hJ
 vd
-zI
+YW
 hJ
-zI
+YW
 ok
 fs
 fs
@@ -23954,15 +24002,15 @@ fs
 fs
 fs
 fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
+ok
+qk
+qk
+OC
+OC
+OC
+qk
+qk
+ok
 fs
 fs
 fs
@@ -24197,8 +24245,8 @@ hJ
 hJ
 hJ
 EO
-zI
-zI
+YW
+YW
 hJ
 ok
 fs
@@ -24211,15 +24259,15 @@ fs
 fs
 fs
 fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
+ok
+qk
+qk
+OC
+OC
+OC
+qk
+qk
+ok
 fs
 fs
 fs
@@ -24454,9 +24502,9 @@ hJ
 hJ
 hJ
 EO
-zI
-hJ
-zI
+YW
+YW
+YW
 ok
 fs
 fs
@@ -24468,15 +24516,15 @@ fs
 fs
 fs
 fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
+ok
+ok
+ok
+ok
+ok
+ok
+ok
+ok
+ok
 fs
 fs
 fs
@@ -24712,7 +24760,7 @@ hJ
 hJ
 vd
 hJ
-zI
+YW
 hJ
 ok
 ok
@@ -24726,14 +24774,14 @@ fs
 fs
 fs
 fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
+ok
+Re
+OC
+OC
+qk
+FX
+sG
+vd
 fs
 fs
 fs
@@ -24968,9 +25016,9 @@ ok
 ok
 ok
 ok
-zI
+YW
 hJ
-zI
+YW
 ok
 kb
 kb
@@ -24983,14 +25031,14 @@ fs
 fs
 fs
 fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
+ok
+hG
+Pr
+OC
+qk
+sG
+sG
+vd
 fs
 fs
 fs
@@ -25225,9 +25273,9 @@ hJ
 hJ
 ok
 tB
-zI
+YW
 hJ
-zI
+YW
 ok
 DH
 Rm
@@ -25240,14 +25288,14 @@ ok
 ok
 fs
 fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
-fs
+ok
+ok
+ok
+ok
+ok
+ok
+ok
+ok
 fs
 fs
 fs
@@ -25482,9 +25530,9 @@ hJ
 hJ
 ok
 tB
-zI
-zI
-zI
+YW
+YW
+YW
 ok
 ok
 ok
@@ -25739,18 +25787,18 @@ hJ
 hJ
 ok
 tB
-zI
-zI
-zI
-zI
-zI
-zI
-zI
-zI
-zI
-zI
-zI
-zI
+YW
+YW
+YW
+YW
+YW
+YW
+YW
+YW
+YW
+YW
+YW
+YW
 ok
 fs
 fs
@@ -25996,18 +26044,18 @@ hJ
 hJ
 ok
 ok
-zI
-zI
-zI
-zI
-zI
-zI
-zI
-zI
-zI
-zI
-zI
-zI
+YW
+YW
+YW
+YW
+YW
+YW
+YW
+YW
+YW
+YW
+YW
+YW
 ok
 fs
 fs
@@ -80694,12 +80742,12 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
+ok
+ok
+ok
+ok
+ok
+ok
 sZ
 sZ
 sZ
@@ -80951,12 +80999,12 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
+CX
+CX
+CX
+CX
+CX
+CX
 sZ
 sZ
 sZ
@@ -81208,12 +81256,12 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
+ok
+CX
+wt
+wt
+wt
+wt
 sZ
 sZ
 sZ
@@ -81460,17 +81508,17 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
+wt
+wt
+wt
+wt
+wt
+ok
+CX
+wt
+JW
+bw
+wt
 sZ
 sZ
 sZ
@@ -81717,17 +81765,17 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
+hJ
+yc
+yc
+yc
+yc
+ok
+CX
+wt
+qT
+yc
+wt
 sZ
 sZ
 sZ
@@ -81974,17 +82022,17 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
+hJ
+yc
+yc
+yc
+yc
+yc
+CX
+nJ
+yc
+BF
+wt
 sZ
 sZ
 sZ
@@ -82231,17 +82279,17 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
+hJ
+yc
+yc
+yc
+yc
+wt
+wt
+wt
+wt
+wt
+wt
 sZ
 sZ
 sZ
@@ -82488,12 +82536,12 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
-sZ
-sZ
+wt
+yc
+yc
+wt
+wt
+wt
 sZ
 sZ
 sZ
@@ -82745,10 +82793,10 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
+hJ
+yc
+yc
+wt
 sZ
 sZ
 sZ
@@ -83002,10 +83050,10 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
+hJ
+yc
+yc
+wt
 sZ
 sZ
 sZ
@@ -83259,10 +83307,10 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
+hJ
+yc
+yc
+wt
 sZ
 sZ
 sZ
@@ -83516,10 +83564,10 @@ sZ
 sZ
 sZ
 sZ
-sZ
-sZ
-sZ
-sZ
+wt
+wt
+wt
+wt
 sZ
 sZ
 sZ
