@@ -2217,7 +2217,6 @@
 	pixel_y = -19
 	},
 /obj/structure/table/reinforced,
-/obj/item/gun/energy/e_gun/advtaser/assault_ops,
 /turf/open/floor/iron/dark/textured,
 /area/shuttle/abandoned/medbay)
 "ZM" = (
