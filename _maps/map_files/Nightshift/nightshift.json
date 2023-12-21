@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"map_name": "Nightshift",
+	"map_path": "map_files/Nightshift",
+	"map_file": "Nightshift.dmm",
+	"shuttles": {
+		"cargo": "cargo_delta_skyrat",
+		"ferry": "ferry_skyrat",
+		"whiteship": "whiteship_meta",
+		"emergency": "emergency_skyrat"
+	},
+	"traits": [
+		{
+			"Up": true,
+			"Linkage": "Cross"
+		},
+		{
+			"Down": true,
+			"Baseturf": "/turf/open/openspace",
+			"Linkage": "Cross"
+		}
+	],
+	"job_changes": {
+		"Cook": {
+			"additional_cqc_areas": ["/area/station/commons/lounge"]
+		}
+	}
+}

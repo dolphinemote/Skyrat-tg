@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"map_name": "NSVpsm",
+	"map_path": "map_files/Nightshift",
+	"map_file": [
+		"NSVpsm.dmm"
+	],
+	"space_ruin_levels": 0,
+	"space_empty_levels": 0,
+	"shuttles": {
+		"cargo": "cargo_skyrat",
+		"ferry": "ferry_skyrat",
+		"whiteship": "whiteship_meta",
+		"emergency": "emergency_skyrat"
+	},
+	"traits": [
+		{
+			"Up": 1,
+			"Linkage": "Cross"
+		},
+		{
+			"Down": -1,
+			"Up": 1,
+			"Baseturf": "/turf/open/openspace",
+			"Linkage": "Cross"
+		},
+		{
+			"Down": -1,
+			"Baseturf": "/turf/open/openspace",
+			"Linkage": "Cross"
+		}
+	],
+	"job_changes": {
+		"cook": {
+			"additional_cqc_areas": ["/area/service/kitchen/diner"]
+		}
+	}
+}
