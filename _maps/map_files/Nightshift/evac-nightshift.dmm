@@ -1,0 +1,818 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/open/space/basic,
+/area/space)
+"b" = (
+/obj/structure/chair/comfy/shuttle,
+/obj/structure/window/reinforced/spawner/directional/east,
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"c" = (
+/turf/open/floor/iron/dark/side{
+	dir = 9
+	},
+/area/space)
+"e" = (
+/obj/structure/table/optable,
+/turf/open/floor/iron/dark,
+/area/space)
+"f" = (
+/obj/structure/chair/comfy/shuttle,
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"h" = (
+/turf/open/floor/iron/dark,
+/area/space)
+"i" = (
+/obj/structure/table/reinforced,
+/obj/machinery/recharger,
+/turf/open/floor/iron/dark/small,
+/area/space)
+"k" = (
+/obj/machinery/computer/crew,
+/turf/open/floor/iron/dark/small,
+/area/space)
+"l" = (
+/obj/machinery/power/shuttle_engine/propulsion,
+/turf/open/floor/plating,
+/area/space)
+"o" = (
+/turf/open/floor/iron/dark/side{
+	dir = 5
+	},
+/area/space)
+"p" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/side{
+	dir = 9
+	},
+/area/space)
+"r" = (
+/obj/structure/bodycontainer/morgue{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/space)
+"u" = (
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/space)
+"v" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 1
+	},
+/obj/structure/window/reinforced/spawner/directional/east,
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"w" = (
+/turf/closed/wall/mineral/titanium,
+/area/space)
+"x" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"y" = (
+/turf/open/floor/iron/dark/small,
+/area/space)
+"z" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/small,
+/area/space)
+"A" = (
+/obj/structure/chair/comfy/shuttle,
+/turf/open/floor/iron/dark/small,
+/area/space)
+"B" = (
+/obj/machinery/door/airlock/medical,
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"D" = (
+/obj/machinery/door/airlock/medical/glass{
+	name = "Shuttle Medbay"
+	},
+/turf/open/floor/iron/dark,
+/area/space)
+"E" = (
+/obj/machinery/iv_drip,
+/turf/open/floor/iron/dark,
+/area/space)
+"F" = (
+/obj/machinery/door/airlock/external/glass,
+/turf/open/floor/plating,
+/area/space)
+"H" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"I" = (
+/obj/effect/spawner/structure/window/reinforced/shuttle,
+/turf/open/floor/plating,
+/area/space)
+"J" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/space)
+"K" = (
+/obj/structure/chair/comfy/shuttle,
+/turf/open/floor/iron/dark,
+/area/space)
+"M" = (
+/obj/structure/table/reinforced,
+/turf/open/floor/iron/dark,
+/area/space)
+"O" = (
+/obj/structure/chair/comfy/shuttle,
+/turf/open/floor/iron/dark/side{
+	dir = 5
+	},
+/area/space)
+"P" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/side{
+	dir = 5
+	},
+/area/space)
+"Q" = (
+/obj/machinery/door/airlock/security/old/glass{
+	name = "Shuttle Brig"
+	},
+/turf/open/floor/iron/dark/small,
+/area/space)
+"R" = (
+/turf/open/floor/iron/dark/textured_large,
+/area/space)
+"S" = (
+/obj/machinery/computer/operating{
+	dir = 4
+	},
+/turf/open/floor/iron/dark,
+/area/space)
+"V" = (
+/obj/machinery/stasis{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/space)
+
+(1,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+I
+I
+I
+u
+I
+I
+I
+w
+w
+a
+a
+a
+I
+F
+I
+F
+I
+a
+a
+a
+a
+"}
+(2,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+h
+O
+o
+P
+h
+O
+o
+P
+w
+w
+w
+a
+a
+I
+R
+R
+R
+I
+a
+a
+a
+a
+"}
+(3,1,1) = {"
+a
+a
+a
+a
+a
+a
+u
+h
+A
+y
+z
+h
+A
+y
+J
+h
+w
+w
+u
+u
+u
+F
+u
+F
+u
+u
+u
+u
+w
+"}
+(4,1,1) = {"
+a
+a
+a
+a
+a
+a
+u
+h
+h
+h
+h
+h
+h
+h
+h
+h
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+u
+l
+"}
+(5,1,1) = {"
+a
+a
+a
+a
+a
+a
+u
+h
+h
+h
+h
+h
+h
+h
+h
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+u
+l
+"}
+(6,1,1) = {"
+a
+a
+a
+a
+a
+a
+u
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+u
+u
+"}
+(7,1,1) = {"
+a
+a
+a
+a
+a
+a
+u
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+u
+u
+B
+u
+u
+l
+"}
+(8,1,1) = {"
+a
+a
+a
+a
+a
+a
+u
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+u
+H
+R
+H
+u
+l
+"}
+(9,1,1) = {"
+a
+a
+a
+a
+a
+a
+u
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+u
+H
+R
+H
+u
+u
+"}
+(10,1,1) = {"
+a
+a
+a
+a
+a
+a
+u
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+u
+u
+u
+u
+u
+I
+I
+I
+u
+l
+"}
+(11,1,1) = {"
+a
+a
+a
+a
+a
+a
+u
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+h
+u
+V
+E
+V
+u
+M
+M
+M
+u
+l
+"}
+(12,1,1) = {"
+a
+a
+a
+a
+a
+a
+w
+w
+w
+w
+w
+h
+h
+h
+h
+h
+h
+h
+h
+u
+h
+h
+h
+I
+K
+e
+J
+u
+l
+"}
+(13,1,1) = {"
+a
+a
+a
+a
+a
+a
+w
+f
+R
+x
+w
+h
+h
+h
+h
+h
+h
+h
+h
+u
+h
+h
+h
+I
+h
+S
+h
+u
+u
+"}
+(14,1,1) = {"
+a
+a
+a
+a
+a
+a
+w
+f
+R
+x
+w
+h
+h
+h
+h
+h
+h
+h
+h
+u
+h
+h
+h
+D
+h
+h
+h
+u
+l
+"}
+(15,1,1) = {"
+a
+a
+a
+a
+a
+a
+w
+b
+R
+v
+w
+u
+u
+u
+u
+u
+u
+u
+u
+u
+R
+R
+R
+u
+r
+r
+r
+u
+l
+"}
+(16,1,1) = {"
+a
+a
+a
+a
+a
+w
+w
+f
+R
+x
+I
+R
+H
+H
+H
+R
+R
+u
+R
+H
+R
+R
+R
+u
+u
+u
+u
+u
+u
+"}
+(17,1,1) = {"
+a
+a
+a
+a
+a
+I
+k
+i
+y
+y
+Q
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+y
+u
+l
+"}
+(18,1,1) = {"
+a
+a
+a
+a
+a
+w
+w
+p
+p
+p
+I
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+c
+u
+l
+"}
+(19,1,1) = {"
+a
+a
+a
+a
+a
+a
+w
+I
+I
+I
+u
+u
+I
+I
+I
+u
+I
+I
+I
+u
+F
+I
+F
+u
+I
+I
+I
+u
+w
+"}
+(20,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+I
+R
+R
+R
+I
+a
+a
+a
+a
+a
+"}
+(21,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+I
+F
+I
+F
+I
+a
+a
+a
+a
+a
+"}
