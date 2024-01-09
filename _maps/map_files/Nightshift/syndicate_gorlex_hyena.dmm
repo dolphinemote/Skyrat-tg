@@ -1,0 +1,2822 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"aF" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"aH" = (
+/obj/structure/reagent_dispensers/fueltank,
+/obj/machinery/firealarm/directional/east,
+/obj/effect/decal/cleanable/oil,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"aN" = (
+/obj/machinery/atmospherics/components/binary/dp_vent_pump/layer2{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"bd" = (
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"bl" = (
+/obj/machinery/navbeacon{
+	codes_txt = "patrol;next_patrol=crew";
+	location = "cargo"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"bH" = (
+/obj/structure/closet/secure_closet{
+	anchored = 1;
+	icon_state = "hos";
+	name = "captain's locker";
+	req_access = list(20)
+	},
+/obj/item/storage/backpack/security,
+/obj/item/clothing/under/syndicate/combat,
+/obj/item/clothing/suit/armor/vest/capcarapace/syndicate,
+/obj/item/clothing/shoes/jackboots,
+/obj/item/clothing/gloves/combat,
+/obj/item/clothing/glasses/hud/security/sunglasses/eyepatch,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/gun/ballistic/revolver,
+/obj/item/ammo_box/a357/match,
+/obj/item/ammo_box/a357/match,
+/obj/item/ammo_box/a357/match,
+/obj/item/pen/edagger,
+/turf/open/floor/carpet/black,
+/area/shuttle/abandoned/medbay)
+"bJ" = (
+/obj/structure/closet/secure_closet{
+	anchored = 1;
+	icon_state = "syndicate";
+	name = "armor locker"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/radio/intercom/directional/west{
+	pixel_y = -5
+	},
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/machinery/light/small/directional/west{
+	pixel_y = 7
+	},
+/obj/item/storage/toolbox/guncase/bulldog,
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/abandoned/medbay)
+"bS" = (
+/obj/machinery/light/directional/south,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"bV" = (
+/obj/machinery/door/poddoor/shutters{
+	id = "wreckerarmory";
+	name = "Security Shutters"
+	},
+/obj/machinery/door/firedoor/border_only{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"cg" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"cB" = (
+/obj/structure/weightmachine/weightlifter,
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4,
+/obj/machinery/light/directional/east,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"cH" = (
+/obj/machinery/atmospherics/pipe/layer_manifold{
+	dir = 4
+	},
+/obj/machinery/door/poddoor/shutters{
+	dir = 4;
+	id = "wreckerwindows";
+	name = "Blast Shutters"
+	},
+/obj/effect/spawner/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"cV" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/power/apc/auto_name/directional/north,
+/obj/machinery/light_switch{
+	pixel_y = 23;
+	pixel_x = -12
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/corner{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"dh" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/landmark/start/shaft_miner,
+/obj/structure/cable,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"dA" = (
+/obj/structure/closet/crate{
+	name = "food crate"
+	},
+/obj/item/storage/cans/sixbeer,
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"dG" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2,
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/abandoned/medbay)
+"dQ" = (
+/obj/structure/bed,
+/obj/item/bedsheet/black,
+/obj/structure/curtain/cloth/fancy{
+	name = "blood-red curtains"
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"dU" = (
+/obj/machinery/door/poddoor{
+	dir = 4;
+	id = "wrecker_engine_stbd"
+	},
+/obj/effect/spawner/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"fi" = (
+/obj/machinery/power/port_gen/pacman/super,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"fv" = (
+/obj/structure/closet/secure_closet{
+	anchored = 1;
+	icon_state = "syndicate";
+	name = "ammunition locker"
+	},
+/obj/machinery/light/small/directional/east{
+	pixel_y = -8
+	},
+/obj/machinery/firealarm/directional/east{
+	pixel_y = 6
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/storage/toolbox/guncase/m90gl,
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/abandoned/medbay)
+"fC" = (
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"fL" = (
+/obj/effect/spawner/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"fW" = (
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/oil/streak,
+/obj/structure/extinguisher_cabinet/directional/south,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"fY" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/abandoned/medbay)
+"gM" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"hc" = (
+/obj/machinery/rnd/production/techfab/department/cargo,
+/obj/effect/turf_decal/tile/dark_red/half/contrasted,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"hh" = (
+/obj/structure/reagent_dispensers/fueltank,
+/obj/effect/decal/cleanable/oil/slippery,
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"hT" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"ir" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/door/poddoor{
+	dir = 4;
+	id = "wrecker_engine_port"
+	},
+/obj/effect/spawner/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"iv" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/tile/dark_red/half/contrasted,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"ix" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/machinery/navbeacon{
+	codes_txt = "patrol;next_patrol=bridge";
+	location = "crew"
+	},
+/obj/structure/cable,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"iC" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/arrows{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"iI" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/trimline/dark_red/filled/warning,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"iL" = (
+/obj/machinery/light/small/directional/west,
+/obj/item/clothing/suit/space/syndicate/black/orange,
+/obj/item/clothing/mask/gas/syndicate,
+/obj/item/clothing/head/helmet/space/syndicate/black/orange,
+/obj/item/tank/jetpack/carbondioxide,
+/obj/machinery/suit_storage_unit/open,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"iN" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"jf" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/mapping_helpers/airlock/access/any/syndicate,
+/obj/machinery/door/airlock/grunge{
+	dir = 4;
+	name = "Cargo Bay"
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/abandoned/medbay)
+"ji" = (
+/obj/structure/sign/warning/vacuum/external{
+	pixel_y = -9
+	},
+/turf/closed/wall/mineral/plastitanium/nodiagonal,
+/area/shuttle/abandoned/medbay)
+"jB" = (
+/obj/structure/closet/secure_closet{
+	anchored = 1;
+	icon_state = "syndicate";
+	name = "firearms locker"
+	},
+/obj/machinery/button/door{
+	dir = 1;
+	id = "wreckerarmory";
+	name = "armory shutters";
+	pixel_y = -21;
+	req_access = null
+	},
+/obj/item/storage/toolbox/guncase/m90gl,
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/abandoned/medbay)
+"jG" = (
+/obj/machinery/light/directional/south,
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/firealarm/directional/south,
+/obj/structure/cable,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"jH" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"jP" = (
+/obj/machinery/atmospherics/components/unary/portables_connector{
+	dir = 1
+	},
+/obj/machinery/portable_atmospherics/scrubber,
+/obj/machinery/button/door{
+	dir = 1;
+	id = "wrecker_engine_port";
+	name = "thruster doors";
+	pixel_y = -21
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"jT" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"jY" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/radio/intercom/directional/south,
+/obj/effect/mob_spawn/ghost_role/human/ds2/syndicate_command/masteratarms{
+	dir = 1
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"kg" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/closet/crate/medical,
+/obj/item/bodybag,
+/obj/machinery/light/directional/north,
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"kM" = (
+/obj/structure/chair/office{
+	dir = 1
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"kR" = (
+/obj/docking_port/stationary{
+	dwidth = 10;
+	height = 15;
+	width = 30
+	},
+/turf/template_noop,
+/area/template_noop)
+"lg" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/oil/streak,
+/obj/structure/closet/crate/freezer,
+/obj/item/reagent_containers/blood/random,
+/obj/machinery/light/directional/north,
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"lt" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"mf" = (
+/obj/structure/chair/stool,
+/obj/structure/window/reinforced/spawner/directional{
+	dir = 4
+	},
+/obj/structure/window/reinforced/spawner/directional,
+/turf/open/floor/carpet/black,
+/area/shuttle/abandoned/medbay)
+"nn" = (
+/turf/template_noop,
+/area/template_noop)
+"no" = (
+/obj/structure/bed,
+/obj/item/bedsheet/syndie,
+/obj/structure/curtain/cloth/fancy{
+	name = "blood-red curtains"
+	},
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/carpet/black,
+/area/shuttle/abandoned/medbay)
+"nG" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/oil/streak,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"nK" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/door/firedoor/border_only,
+/obj/machinery/door/firedoor/border_only{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/door/airlock/grunge{
+	name = "Foreman's Office"
+	},
+/obj/effect/mapping_helpers/airlock/access/any/syndicate/leader,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"nR" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/vending/cola/sodie,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"nS" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"nT" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/machinery/button/door{
+	dir = 8;
+	id = "wrecker_engine_stbd";
+	name = "thruster doors";
+	pixel_x = 21
+	},
+/obj/structure/cable,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"nX" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/door/poddoor{
+	dir = 4;
+	id = "wrecker_engine_stbd"
+	},
+/obj/effect/spawner/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"ob" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"ol" = (
+/obj/structure/table/reinforced,
+/obj/item/paper_bin/carbon,
+/obj/item/folder/syndicate,
+/obj/item/pen/fourcolor,
+/obj/item/gps/mining{
+	pixel_x = 9;
+	pixel_y = -6
+	},
+/obj/machinery/light/directional/south,
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
+	dir = 8
+	},
+/obj/machinery/button/door{
+	dir = 1;
+	id = "wreckercargobay";
+	name = "cargo bay doors";
+	pixel_y = -25
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"oF" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/documents/syndicate/mining,
+/obj/structure/filingcabinet,
+/obj/machinery/firealarm/directional/west,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"oJ" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/trimline/dark_red/filled/warning{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"oQ" = (
+/obj/structure/table/reinforced,
+/obj/machinery/button/door{
+	dir = 8;
+	id = "wreckerwindows";
+	name = "Window Shutters";
+	pixel_x = -5;
+	pixel_y = 3
+	},
+/obj/item/gps{
+	pixel_x = 7
+	},
+/obj/item/megaphone/sec{
+	name = "syndicate megaphone";
+	pixel_x = -4;
+	pixel_y = 7
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"oS" = (
+/obj/structure/table,
+/obj/machinery/microwave,
+/obj/machinery/firealarm/directional/west,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/tile/bar/opposingcorners,
+/turf/open/floor/iron,
+/area/shuttle/abandoned/medbay)
+"oV" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/obj/effect/mob_spawn/ghost_role/human/ds2/syndicate/miner,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"pt" = (
+/obj/item/clothing/shoes/workboots/mining,
+/obj/item/clothing/accessory/armband/cargo,
+/obj/item/storage/belt/mining,
+/obj/item/clothing/glasses/meson,
+/obj/item/clothing/glasses/welding,
+/obj/item/clothing/head/soft/grey,
+/obj/machinery/light/small/directional/north,
+/obj/structure/closet/secure_closet{
+	anchored = 1;
+	icon_state = "mining";
+	name = "wrecker's locker";
+	req_access = list(48)
+	},
+/obj/machinery/firealarm/directional/east,
+/obj/structure/closet/secure_closet{
+	anchored = 1;
+	icon_state = "mining";
+	name = "wrecker's locker";
+	req_access = list(48)
+	},
+/obj/item/clothing/shoes/workboots/mining,
+/obj/item/clothing/accessory/armband/cargo,
+/obj/item/storage/belt/mining,
+/obj/item/clothing/glasses/meson,
+/obj/item/clothing/glasses/welding,
+/obj/item/clothing/head/soft/grey,
+/obj/machinery/light/small/directional/north,
+/obj/machinery/firealarm/directional/east,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"pu" = (
+/obj/structure/bed,
+/obj/item/bedsheet/black,
+/obj/structure/curtain/cloth/fancy{
+	name = "blood-red curtains"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/window/reinforced/tinted/frosted{
+	dir = 8
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"pv" = (
+/obj/structure/dresser,
+/obj/structure/cable,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"px" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/tile/dark_red/half/contrasted{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"pz" = (
+/obj/machinery/power/terminal{
+	dir = 1
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
+	dir = 4
+	},
+/obj/structure/cable,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"pH" = (
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"pI" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/computer/cargo/express{
+	dir = 1
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"pP" = (
+/obj/machinery/autolathe,
+/obj/effect/turf_decal/tile/dark_red/half/contrasted,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"qt" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/light/small/directional/west,
+/obj/item/clothing/mask/breath,
+/obj/item/tank/internals/oxygen,
+/obj/machinery/suit_storage_unit/industrial,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"qO" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/effect/landmark/start/shaft_miner,
+/obj/structure/cable,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"rF" = (
+/obj/structure/closet/secure_closet{
+	anchored = 1;
+	icon_state = "eng_secure";
+	name = "mechanic's locker";
+	req_access = list(11)
+	},
+/obj/item/clothing/shoes/workboots,
+/obj/item/clothing/accessory/armband/engine,
+/obj/item/clothing/suit/hazardvest,
+/obj/item/storage/belt/utility,
+/obj/item/clothing/glasses/meson,
+/obj/item/clothing/glasses/welding,
+/obj/item/clothing/head/soft/yellow,
+/obj/structure/cable,
+/obj/machinery/light_switch{
+	dir = 1;
+	pixel_y = -16;
+	pixel_x = -12
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"rM" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"rP" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/landmark/start/assistant,
+/obj/structure/chair/sofa/left/brown,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"rR" = (
+/obj/structure/reagent_dispensers/watertank,
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"si" = (
+/obj/effect/turf_decal/arrows{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"so" = (
+/obj/machinery/door/poddoor{
+	dir = 4;
+	id = "wreckercargobay";
+	name = "Cargo Bay Exterior Blast Door"
+	},
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/structure/fans/tiny/forcefield{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"sx" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/door/poddoor{
+	dir = 4;
+	id = "wreckercargobay";
+	name = "Cargo Bay Exterior Blast Door"
+	},
+/obj/structure/fans/tiny/forcefield{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"sA" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
+	dir = 1
+	},
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"sG" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/door/airlock/hatch{
+	name = "External Airlock"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 1
+	},
+/obj/effect/mapping_helpers/airlock/access/any/syndicate,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"tl" = (
+/obj/structure/toilet{
+	pixel_y = 12
+	},
+/obj/effect/decal/cleanable/blood/old,
+/obj/machinery/light/small/directional/west,
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/abandoned/medbay)
+"tn" = (
+/obj/machinery/light/small/directional/west,
+/obj/machinery/atmospherics/pipe/layer_manifold{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"tx" = (
+/obj/structure/closet/secure_closet{
+	anchored = 1;
+	icon_state = "mining";
+	name = "wrecker's locker";
+	req_access = list(48)
+	},
+/obj/item/clothing/shoes/workboots/mining,
+/obj/item/clothing/accessory/armband/cargo,
+/obj/item/storage/belt/mining,
+/obj/item/clothing/glasses/meson,
+/obj/item/clothing/glasses/welding,
+/obj/item/clothing/head/soft/grey,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"tI" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/navbeacon{
+	codes_txt = "patrol;next_patrol=storage";
+	location = "bridge"
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/warning,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"tS" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/arrows{
+	dir = 8
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"uk" = (
+/obj/machinery/vending/cigarette/syndicate,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"un" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/structure/cable,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/shuttle/abandoned/medbay)
+"uq" = (
+/obj/structure/cable,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/shuttle/abandoned/medbay)
+"ut" = (
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"vi" = (
+/obj/structure/table,
+/obj/item/toy/cards/deck/syndicate{
+	pixel_y = 6
+	},
+/obj/item/storage/fancy/cigarettes/cigpack_syndicate{
+	pixel_x = 6;
+	pixel_y = -2
+	},
+/obj/item/lighter{
+	pixel_x = -5;
+	pixel_y = -1
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"vv" = (
+/obj/structure/closet/crate,
+/obj/item/stack/sheet/glass/fifty,
+/obj/effect/decal/cleanable/dirt,
+/obj/item/radio/intercom/directional/south,
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"vG" = (
+/obj/machinery/light_switch{
+	dir = 1;
+	pixel_y = -16;
+	pixel_x = -12
+	},
+/obj/machinery/portable_atmospherics/canister/plasma,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"vN" = (
+/obj/effect/turf_decal/tile/bar/opposingcorners,
+/turf/open/floor/iron,
+/area/shuttle/abandoned/medbay)
+"vR" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/door/firedoor/border_only,
+/obj/machinery/door/firedoor/border_only{
+	dir = 1
+	},
+/obj/machinery/door/airlock/grunge{
+	name = "Break Room"
+	},
+/obj/structure/cable,
+/obj/effect/mapping_helpers/airlock/access/any/syndicate,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"wE" = (
+/obj/item/toy/nuke,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/table,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/abandoned/medbay)
+"wO" = (
+/obj/structure/table,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/light/small/directional/south,
+/obj/effect/turf_decal/tile/bar/opposingcorners,
+/turf/open/floor/iron,
+/area/shuttle/abandoned/medbay)
+"xm" = (
+/obj/machinery/atmospherics/components/binary/pump{
+	dir = 8;
+	name = "engine fuel pump"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"xx" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
+	dir = 1
+	},
+/obj/effect/landmark/start/station_engineer,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"xK" = (
+/obj/machinery/light/small/directional/east,
+/obj/item/clothing/mask/breath,
+/obj/item/tank/internals/oxygen,
+/obj/machinery/suit_storage_unit/industrial,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"yd" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"yn" = (
+/turf/closed/wall/mineral/plastitanium/nodiagonal,
+/area/shuttle/abandoned/medbay)
+"yw" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"yD" = (
+/obj/structure/closet/crate/radiation{
+	name = "fuel crate"
+	},
+/obj/item/stack/sheet/mineral/uranium/five,
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"yG" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"yM" = (
+/obj/item/lighter{
+	pixel_x = -8;
+	pixel_y = 8
+	},
+/obj/item/storage/fancy/cigarettes/cigars/cohiba{
+	pixel_x = -6;
+	pixel_y = 6
+	},
+/obj/structure/table/wood,
+/obj/structure/window/reinforced/spawner/directional{
+	dir = 4
+	},
+/turf/open/floor/carpet/black,
+/area/shuttle/abandoned/medbay)
+"yV" = (
+/obj/machinery/door/airlock/grunge{
+	dir = 8;
+	name = "Bridge"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/door/firedoor/border_only{
+	dir = 8
+	},
+/obj/machinery/door/firedoor/border_only{
+	dir = 4
+	},
+/obj/effect/mapping_helpers/airlock/access/any/syndicate/leader,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"zn" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/landmark/observer_start,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"zq" = (
+/obj/item/clothing/shoes/jackboots,
+/obj/item/clothing/shoes/jackboots,
+/obj/item/clothing/shoes/jackboots,
+/obj/item/clothing/shoes/jackboots,
+/obj/item/clothing/under/syndicate/skirt,
+/obj/item/clothing/under/syndicate/skirt,
+/obj/item/clothing/under/syndicate/skirt,
+/obj/item/clothing/under/syndicate/skirt,
+/obj/item/clothing/under/syndicate,
+/obj/item/clothing/under/syndicate,
+/obj/item/clothing/under/syndicate,
+/obj/item/clothing/under/syndicate,
+/obj/item/clothing/head/soft/black,
+/obj/item/clothing/head/soft/black,
+/obj/item/clothing/head/soft/black,
+/obj/item/clothing/head/soft/black,
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/item/radio,
+/obj/item/radio,
+/obj/item/radio,
+/obj/item/radio,
+/obj/item/radio,
+/obj/item/radio,
+/obj/item/radio,
+/obj/structure/closet/secure_closet/wall{
+	pixel_y = 0;
+	pixel_x = 28
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"zA" = (
+/obj/machinery/power/smes/engineering,
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"zQ" = (
+/obj/machinery/power/smes/engineering,
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/structure/cable{
+	icon_state = "4-10"
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"zZ" = (
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/extinguisher_cabinet/directional/north,
+/obj/structure/cable,
+/obj/effect/mob_spawn/ghost_role/human/ds2/syndicate/service,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"Af" = (
+/obj/structure/closet/emcloset/wall{
+	pixel_y = 28
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Ax" = (
+/obj/structure/table,
+/obj/machinery/recharger,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/abandoned/medbay)
+"Ay" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
+	dir = 4
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"Az" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
+	dir = 4
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"AF" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"Bg" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"Bn" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/navbeacon{
+	codes_txt = "patrol;next_patrol=dorms";
+	location = "storage"
+	},
+/obj/structure/cable,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/shuttle/abandoned/medbay)
+"Bv" = (
+/obj/structure/closet/secure_closet{
+	anchored = 1;
+	icon_state = "warden";
+	name = "foreman's locker";
+	req_access = list(56)
+	},
+/obj/item/clothing/shoes/jackboots,
+/obj/item/clothing/gloves/combat,
+/obj/item/storage/belt/utility/chief{
+	name = "\improper Foreman's toolbelt"
+	},
+/obj/item/clothing/glasses/meson,
+/obj/item/clothing/glasses/welding,
+/obj/item/storage/toolbox/syndicate,
+/obj/item/wrench/combat,
+/obj/item/ammo_box/magazine/m10mm,
+/obj/item/grenade/chem_grenade/metalfoam,
+/obj/item/storage/toolbox/guncase/clandestine,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"BZ" = (
+/obj/machinery/light_switch{
+	dir = 4;
+	pixel_x = -20
+	},
+/obj/item/clothing/mask/gas/syndicate,
+/obj/structure/window/reinforced/spawner/directional,
+/obj/machinery/suit_storage_unit/open,
+/turf/open/floor/carpet/black,
+/area/shuttle/abandoned/medbay)
+"Ck" = (
+/obj/structure/sink{
+	dir = 4;
+	pixel_x = -14;
+	pixel_y = -6
+	},
+/obj/structure/mirror{
+	pixel_x = -25
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/abandoned/medbay)
+"CO" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Dp" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Dq" = (
+/obj/structure/closet/crate/bin,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"DE" = (
+/obj/machinery/atmospherics/components/unary/outlet_injector/on{
+	dir = 4
+	},
+/turf/open/floor/engine/hull,
+/area/shuttle/abandoned/medbay)
+"DO" = (
+/obj/machinery/door/firedoor/border_only,
+/obj/machinery/door/poddoor/shutters{
+	id = "wreckerarmory";
+	name = "Security Shutters"
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"DU" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
+	dir = 4
+	},
+/obj/machinery/light/small/directional/north,
+/obj/machinery/light_switch{
+	pixel_y = 22;
+	pixel_x = 7
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"DW" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"EH" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/abandoned/medbay)
+"EL" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"Ff" = (
+/obj/structure/curtain,
+/obj/item/bikehorn/rubberducky,
+/obj/machinery/shower/directional/north,
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/abandoned/medbay)
+"Fl" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/door/firedoor/border_only,
+/obj/machinery/door/firedoor/border_only{
+	dir = 1
+	},
+/obj/structure/cable,
+/obj/machinery/door/airlock/engineering,
+/obj/effect/mapping_helpers/airlock/access/any/syndicate,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Fq" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
+	dir = 8
+	},
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/light_switch{
+	dir = 1;
+	pixel_y = -16;
+	pixel_x = -12
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Fr" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Ft" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/shuttle/abandoned/medbay)
+"FA" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"FR" = (
+/obj/structure/table/reinforced,
+/obj/item/flashlight/lamp{
+	pixel_x = -12;
+	pixel_y = 7
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/paper_bin/carbon,
+/obj/item/folder/syndicate/red,
+/obj/item/pen/fountain/captain,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Ge" = (
+/obj/structure/bed,
+/obj/item/bedsheet/black,
+/obj/structure/curtain/cloth/fancy{
+	name = "blood-red curtains"
+	},
+/obj/structure/window/reinforced/tinted/frosted{
+	dir = 8
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"Gj" = (
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/radio/intercom/directional/north,
+/obj/machinery/light_switch{
+	pixel_x = -20;
+	pixel_y = 12;
+	dir = 4
+	},
+/obj/structure/chair/sofa/corner/brown{
+	dir = 4
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"Gm" = (
+/obj/machinery/atmospherics/pipe/layer_manifold,
+/obj/machinery/door/airlock/hatch{
+	name = "External Airlock"
+	},
+/obj/effect/mapping_helpers/airlock/cyclelink_helper,
+/obj/effect/mapping_helpers/airlock/access/any/syndicate,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Gw" = (
+/obj/machinery/firealarm/directional/east,
+/obj/machinery/portable_atmospherics/canister/air,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"HT" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Ib" = (
+/obj/structure/chair/office{
+	dir = 4
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
+	dir = 8
+	},
+/obj/effect/landmark/start/chief_engineer,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"Ic" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/atmospherics/components/binary/pump/on/layer2{
+	dir = 8;
+	name = "Distribution"
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Ii" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/closet/crate/secure/loot,
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Ik" = (
+/obj/machinery/mineral/ore_redemption{
+	dir = 1;
+	output_dir = 1
+	},
+/obj/effect/turf_decal/tile/dark_red/half/contrasted,
+/obj/structure/window/reinforced/spawner/directional{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Iz" = (
+/obj/machinery/cryopod{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/firealarm/directional/east,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"IO" = (
+/obj/structure/closet/crate/bin,
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/food/egg_smudge,
+/obj/effect/turf_decal/tile/bar/opposingcorners,
+/turf/open/floor/iron,
+/area/shuttle/abandoned/medbay)
+"Jf" = (
+/obj/machinery/door/poddoor/shutters{
+	dir = 4;
+	id = "wreckerwindows";
+	name = "Blast Shutters"
+	},
+/obj/effect/spawner/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"Jv" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/computer/camera_advanced/shuttle_docker/whiteship{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"JD" = (
+/obj/machinery/door/airlock/grunge{
+	dir = 4;
+	name = "Locker Room"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/door/firedoor/border_only{
+	dir = 4
+	},
+/obj/machinery/door/firedoor/border_only{
+	dir = 8
+	},
+/obj/structure/cable,
+/obj/effect/mapping_helpers/airlock/access/any/syndicate,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"JS" = (
+/obj/machinery/door/poddoor{
+	dir = 4;
+	id = "wreckercargobay";
+	name = "Cargo Bay Exterior Blast Door"
+	},
+/obj/structure/fans/tiny/forcefield{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Kb" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"Ki" = (
+/obj/machinery/atmospherics/pipe/layer_manifold{
+	dir = 4
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/shuttle/abandoned/medbay)
+"Kn" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"KA" = (
+/turf/open/floor/carpet/black,
+/area/shuttle/abandoned/medbay)
+"KH" = (
+/obj/machinery/atmospherics/components/binary/pump/layer2{
+	dir = 4;
+	name = "Input to Air"
+	},
+/obj/machinery/atmospherics/components/binary/pump/layer4{
+	dir = 4;
+	name = "Input to Fuel"
+	},
+/obj/structure/cable,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/shuttle/abandoned/medbay)
+"KJ" = (
+/obj/machinery/light/small/directional/north,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"KQ" = (
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/obj/structure/cable,
+/obj/effect/mob_spawn/ghost_role/human/ds2/syndicate/brigoff{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"KT" = (
+/obj/machinery/door/firedoor/border_only{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/door/poddoor/shutters{
+	id = "wreckerarmory";
+	name = "Security Shutters"
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"KW" = (
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/clothing/shoes/magboots/syndie,
+/obj/item/clothing/mask/gas/syndicate,
+/obj/item/clothing/suit/space/syndicate,
+/obj/item/clothing/head/helmet/space/syndicate,
+/obj/machinery/suit_storage_unit/open,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"KX" = (
+/obj/machinery/light/small/directional/south,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/tank_dispenser/oxygen,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"La" = (
+/obj/machinery/power/apc/auto_name/directional/east,
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/item/analyzer,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Lv" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
+	dir = 1
+	},
+/obj/structure/cable,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Ml" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
+	dir = 4
+	},
+/obj/structure/cable,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Mp" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Ms" = (
+/obj/structure/bed,
+/obj/item/bedsheet/black,
+/obj/structure/curtain/cloth/fancy{
+	name = "blood-red curtains"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"MP" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Nl" = (
+/obj/structure/chair/comfy/shuttle{
+	dir = 4;
+	name = "Helm"
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"NN" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/door/poddoor{
+	dir = 4;
+	id = "wreckercargobay";
+	name = "Cargo Bay Exterior Blast Door"
+	},
+/obj/structure/fans/tiny/forcefield{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"NS" = (
+/obj/machinery/door/poddoor{
+	dir = 4;
+	id = "wreckercargobay";
+	name = "Cargo Bay Exterior Blast Door"
+	},
+/obj/docking_port/mobile{
+	can_move_docking_ports = 1;
+	dheight = 4;
+	dir = 8;
+	height = 18;
+	launch_status = 0;
+	name = "mining ship";
+	preferred_direction = 4
+	},
+/obj/structure/fans/tiny/forcefield{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Or" = (
+/obj/machinery/light/small/directional/south,
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/stripes/red/line{
+	dir = 4
+	},
+/obj/effect/mob_spawn/ghost_role/human/ds2/syndicate/enginetech{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"Oy" = (
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
+	dir = 1
+	},
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"OL" = (
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/machinery/power/terminal{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"Pd" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/spider/stickyweb,
+/obj/structure/closet/crate/secure/loot,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"Pn" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/warning{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Px" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"PG" = (
+/obj/machinery/door/firedoor/border_only,
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/door/poddoor/shutters{
+	id = "wreckerarmory";
+	name = "Security Shutters"
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"PL" = (
+/obj/machinery/door/poddoor{
+	dir = 4;
+	id = "wrecker_engine_port"
+	},
+/obj/effect/spawner/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"PT" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Qy" = (
+/obj/effect/turf_decal/arrows{
+	dir = 8
+	},
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Rc" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/cable,
+/turf/open/floor/catwalk_floor/iron_dark,
+/area/shuttle/abandoned/medbay)
+"Rl" = (
+/obj/structure/table/reinforced,
+/obj/item/radio/intercom/directional/east{
+	pixel_y = 7
+	},
+/obj/item/toy/figure/syndie{
+	pixel_x = 11;
+	pixel_y = -3
+	},
+/obj/machinery/fax,
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Rq" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"RD" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/door/firedoor/border_only,
+/obj/machinery/door/firedoor/border_only{
+	dir = 1
+	},
+/obj/structure/cable,
+/obj/machinery/door/airlock/atmos,
+/obj/effect/mapping_helpers/airlock/access/any/syndicate,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"RE" = (
+/obj/effect/decal/cleanable/dirt,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"RQ" = (
+/obj/machinery/button/door{
+	dir = 1;
+	id = "wreckercargobay";
+	name = "cargo bay doors";
+	pixel_y = -21
+	},
+/obj/machinery/light/floor,
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Sa" = (
+/obj/item/clothing/suit/space/syndicate/black/engie,
+/obj/item/clothing/head/helmet/space/syndicate/black/engie,
+/obj/item/clothing/mask/breath,
+/obj/item/tank/jetpack/carbondioxide,
+/obj/machinery/suit_storage_unit/open,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Sd" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/navbeacon{
+	codes_txt = "patrol;next_patrol=cargo";
+	location = "dorms"
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"Sm" = (
+/obj/structure/closet{
+	anchored = 1;
+	icon_door = "eng_tool";
+	icon_state = "eng"
+	},
+/obj/item/storage/toolbox/syndicate{
+	pixel_x = 5;
+	pixel_y = 5
+	},
+/obj/item/storage/toolbox/syndicate,
+/obj/item/storage/toolbox/syndicate{
+	pixel_x = -5;
+	pixel_y = -5
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Sv" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/button/door{
+	id = "wreckerarmory";
+	name = "armory shutters";
+	pixel_y = 23
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/corner{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Sy" = (
+/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer4{
+	dir = 1
+	},
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/warning,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"SE" = (
+/obj/effect/decal/cleanable/oil/streak,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"SJ" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/item/analyzer,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"SV" = (
+/obj/machinery/atmospherics/components/binary/pump/layer4{
+	dir = 8;
+	name = "Input to Waste"
+	},
+/obj/effect/decal/cleanable/oil,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Tg" = (
+/obj/machinery/light/floor,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Th" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/button/door{
+	dir = 1;
+	id = "wreckerarmory";
+	name = "armory shutters";
+	pixel_y = -21
+	},
+/obj/effect/turf_decal/tile/dark_red/half/contrasted{
+	dir = 4
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/corner{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Tq" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/landmark/start/assistant,
+/obj/structure/extinguisher_cabinet/directional/west,
+/obj/structure/chair/sofa/right/brown{
+	dir = 4
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"Tu" = (
+/obj/machinery/atmospherics/components/binary/pump{
+	dir = 8;
+	name = "engine fuel pump"
+	},
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"TK" = (
+/obj/structure/closet/secure_closet/freezer{
+	anchored = 1;
+	locked = 0;
+	name = "fridge"
+	},
+/obj/item/storage/cans/sixbeer,
+/obj/effect/turf_decal/tile/bar/opposingcorners,
+/turf/open/floor/iron,
+/area/shuttle/abandoned/medbay)
+"TR" = (
+/obj/structure/curtain/cloth/fancy{
+	name = "blood-red curtains"
+	},
+/obj/effect/spawner/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"TX" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/structure/extinguisher_cabinet/directional/north,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Ua" = (
+/obj/structure/cable{
+	icon_state = "0-4"
+	},
+/obj/machinery/power/shuttle_engine/propulsion{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"Uh" = (
+/obj/structure/cable,
+/obj/machinery/light_switch{
+	dir = 1;
+	pixel_y = -16;
+	pixel_x = -12
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/corner,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Ui" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/turretid{
+	pixel_x = 32;
+	pixel_y = 22;
+	req_access = list(19)
+	},
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"Up" = (
+/turf/closed/wall/mineral/plastitanium,
+/area/shuttle/abandoned/medbay)
+"VA" = (
+/turf/open/floor/mineral/plastitanium/red,
+/area/shuttle/abandoned/medbay)
+"VC" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/computer/shuttle/white_ship/bridge{
+	dir = 8
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"VD" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/obj/effect/decal/remains/human,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"VG" = (
+/turf/open/floor/engine/hull,
+/area/shuttle/abandoned/medbay)
+"VX" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/item/clothing/suit/space/syndicate/black/orange,
+/obj/item/clothing/mask/gas/syndicate,
+/obj/item/clothing/head/helmet/space/syndicate/black/orange,
+/obj/item/tank/jetpack/carbondioxide,
+/obj/machinery/suit_storage_unit/open,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Wc" = (
+/obj/structure/table,
+/obj/item/modular_computer/laptop/preset/civilian,
+/obj/machinery/light/small/directional/north,
+/turf/open/floor/carpet/red,
+/area/shuttle/abandoned/medbay)
+"We" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/light_switch{
+	dir = 8;
+	pixel_x = 20
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Wt" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/atmospherics/components/unary/vent_pump/on/layer2{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"WN" = (
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"WS" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/machinery/door/firedoor/border_only,
+/obj/machinery/door/firedoor/border_only{
+	dir = 1
+	},
+/obj/machinery/door/airlock/grunge{
+	name = "Dormitory"
+	},
+/obj/effect/mapping_helpers/airlock/access/any/syndicate,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Xb" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/mob_spawn/ghost_role/human/ds2/syndicate_command/admiral,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Xj" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/computer/crew{
+	dir = 8
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Xz" = (
+/obj/machinery/power/shuttle_engine/propulsion{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"XO" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/rack,
+/obj/item/storage/bag/ore,
+/obj/item/storage/bag/ore,
+/obj/item/mining_scanner,
+/obj/item/mining_scanner,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"XP" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/power/terminal{
+	dir = 1
+	},
+/obj/structure/cable,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"XQ" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/effect/turf_decal/trimline/dark_red/filled/warning{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"XR" = (
+/obj/structure/closet/secure_closet{
+	anchored = 1;
+	icon_state = "syndicate";
+	name = "explosives locker";
+	req_access = "list(56, 20)"
+	},
+/obj/structure/sign/warning/explosives/alt{
+	pixel_x = -32
+	},
+/obj/item/storage/backpack/duffelbag/syndie/c4{
+	name = "bag of mining charges"
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/machinery/button/door{
+	id = "wreckerarmory";
+	name = "armory shutters";
+	pixel_y = 23;
+	req_access = null
+	},
+/obj/machinery/light_switch{
+	pixel_y = 23;
+	pixel_x = -12
+	},
+/turf/open/floor/mineral/plastitanium,
+/area/shuttle/abandoned/medbay)
+"XU" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/obj/structure/closet/emcloset/wall{
+	pixel_y = 28
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Yc" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/rack,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"Yv" = (
+/obj/machinery/nuclearbomb/beer{
+	desc = "An evidently-decommissioned nuclear warhead. Sloppy paint on the casing declares 'VICTORY OVER NANOTRASEN,' followed by a badly-smudged date of 25-something. A drink tap has been drilled directly into the metal.";
+	name = "comemmorative nuclear fission explosive"
+	},
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"YH" = (
+/obj/machinery/door/airlock/grunge{
+	dir = 4;
+	name = "Cargo Bay"
+	},
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/door/firedoor/border_only{
+	dir = 4
+	},
+/obj/machinery/door/firedoor/border_only{
+	dir = 8
+	},
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/mapping_helpers/airlock/access/any/syndicate,
+/turf/open/floor/iron/dark,
+/area/shuttle/abandoned/medbay)
+"YI" = (
+/obj/machinery/door/poddoor/shutters{
+	id = "wreckerwindows";
+	name = "Blast Shutters"
+	},
+/obj/effect/spawner/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/shuttle/abandoned/medbay)
+"YV" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/structure/cable{
+	icon_state = "2-8"
+	},
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"Zb" = (
+/turf/open/floor/plating/airless,
+/area/shuttle/abandoned/medbay)
+"Zi" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/arrows{
+	dir = 1
+	},
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"Zn" = (
+/obj/structure/table,
+/obj/machinery/cell_charger,
+/obj/machinery/firealarm/directional/west,
+/obj/effect/turf_decal/tile/dark_red/half/contrasted,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"ZL" = (
+/obj/machinery/firealarm/directional/south,
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/machinery/light_switch{
+	dir = 1;
+	pixel_x = -10;
+	pixel_y = -19
+	},
+/obj/structure/table/reinforced,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+"ZM" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/obj/effect/turf_decal/box/white,
+/turf/open/floor/iron/dark/smooth_large,
+/area/shuttle/abandoned/medbay)
+"ZR" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/machinery/light/directional/north,
+/turf/open/floor/iron/dark/textured,
+/area/shuttle/abandoned/medbay)
+
+(1,1,1) = {"
+nn
+yn
+Ua
+Xz
+Ua
+yn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+yn
+Ua
+Xz
+Ua
+yn
+"}
+(2,1,1) = {"
+nn
+yn
+ir
+PL
+ir
+yn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+yn
+nX
+dU
+nX
+yn
+"}
+(3,1,1) = {"
+nn
+yn
+OL
+xm
+fW
+yn
+Up
+VG
+VG
+VG
+VG
+DE
+VG
+Up
+yn
+zZ
+Tu
+KQ
+yn
+"}
+(4,1,1) = {"
+nn
+yn
+KJ
+EL
+DW
+yn
+yn
+yn
+Jf
+yn
+yn
+cH
+yn
+yn
+yn
+oV
+AF
+Or
+yn
+"}
+(5,1,1) = {"
+nn
+yn
+zQ
+pz
+SV
+tn
+jP
+yn
+XO
+VX
+iL
+Yc
+Sm
+Sa
+yn
+DU
+Ml
+rR
+yn
+"}
+(6,1,1) = {"
+nn
+yn
+zA
+XP
+Ki
+un
+Ft
+RD
+Ft
+Rc
+Bn
+Ft
+Ft
+Ft
+Fl
+nT
+gM
+aH
+yn
+"}
+(7,1,1) = {"
+nn
+yn
+fi
+rM
+KH
+Ic
+vG
+yn
+tx
+dh
+Oy
+KX
+yn
+yn
+yn
+yn
+yn
+yn
+yn
+"}
+(8,1,1) = {"
+nn
+Up
+yn
+yD
+uq
+La
+Gw
+yn
+pt
+qO
+xx
+rF
+yn
+tl
+Ck
+Ff
+yn
+yn
+Up
+"}
+(9,1,1) = {"
+nn
+Zb
+Up
+yn
+yn
+yn
+yn
+yn
+yn
+JD
+fL
+yn
+yn
+yn
+jf
+yn
+yn
+Up
+Zb
+"}
+(10,1,1) = {"
+nn
+Zb
+nn
+yn
+nR
+uk
+yn
+Gj
+Tq
+jT
+IO
+oS
+yn
+pu
+Ay
+Ge
+yn
+nn
+Zb
+"}
+(11,1,1) = {"
+nn
+Zb
+nn
+YI
+fC
+CO
+fL
+rP
+vi
+jT
+vN
+wO
+yn
+Ms
+Sd
+dQ
+YI
+nn
+Zb
+"}
+(12,1,1) = {"
+nn
+Zb
+nn
+yn
+FA
+Px
+vR
+yd
+Kn
+ix
+vN
+TK
+yn
+Wc
+Az
+pv
+yn
+nn
+Zb
+"}
+(13,1,1) = {"
+nn
+Zb
+Zb
+yn
+yG
+Lv
+yn
+Yv
+cB
+ut
+ob
+Fr
+WS
+We
+zq
+Iz
+yn
+Zb
+Zb
+"}
+(14,1,1) = {"
+nn
+Zb
+nn
+yn
+HT
+jG
+yn
+yn
+yn
+yn
+YH
+fL
+yn
+yn
+yn
+yn
+yn
+nn
+Zb
+"}
+(15,1,1) = {"
+nn
+Up
+yn
+yn
+XU
+Uh
+yn
+XR
+bJ
+yn
+Sv
+fC
+Zn
+fL
+KW
+Bv
+YI
+nn
+Zb
+"}
+(16,1,1) = {"
+nn
+yn
+qt
+yn
+ZR
+iI
+DO
+EH
+dG
+bV
+Pn
+Rq
+iv
+nK
+Bg
+jY
+yn
+Up
+Zb
+"}
+(17,1,1) = {"
+nn
+YI
+lt
+sG
+YV
+Sy
+DO
+Ax
+wE
+KT
+oJ
+nG
+hc
+fL
+Ib
+ol
+yn
+yn
+Up
+"}
+(18,1,1) = {"
+kR
+Gm
+aN
+fL
+iN
+tI
+PG
+fY
+VA
+KT
+XQ
+yw
+pP
+fL
+Xj
+ZL
+yn
+Pd
+yn
+"}
+(19,1,1) = {"
+nn
+yn
+xK
+ji
+px
+Th
+yn
+fv
+jB
+yn
+cV
+jH
+Ik
+fL
+fL
+fL
+yn
+Kb
+yn
+"}
+(20,1,1) = {"
+nn
+yn
+yn
+yn
+TR
+yV
+yn
+yn
+yn
+yn
+TX
+SJ
+Dp
+dA
+Dp
+hh
+yn
+Kb
+yn
+"}
+(21,1,1) = {"
+nn
+yn
+bH
+BZ
+Dq
+cg
+yn
+lg
+ZM
+Ii
+Zi
+bl
+si
+Wt
+si
+SE
+yn
+RE
+yn
+"}
+(22,1,1) = {"
+nn
+yn
+no
+KA
+WN
+cg
+yn
+Af
+hT
+PT
+nS
+zn
+bd
+sA
+bd
+vv
+yn
+RE
+yn
+"}
+(23,1,1) = {"
+nn
+yn
+yM
+mf
+aF
+Fq
+yn
+kg
+Mp
+Mp
+iC
+Tg
+Qy
+MP
+tS
+RQ
+yn
+VD
+yn
+"}
+(24,1,1) = {"
+nn
+yn
+Xb
+pH
+pH
+bS
+yn
+yn
+yn
+yn
+ji
+so
+JS
+NS
+sx
+NN
+yn
+yn
+yn
+"}
+(25,1,1) = {"
+nn
+YI
+FR
+kM
+pH
+pH
+oF
+YI
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+Up
+yn
+yn
+"}
+(26,1,1) = {"
+nn
+YI
+Rl
+Ui
+pH
+Nl
+pI
+YI
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+yn
+yn
+"}
+(27,1,1) = {"
+nn
+Up
+yn
+Jv
+oQ
+VC
+yn
+Up
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+yn
+yn
+"}
+(28,1,1) = {"
+nn
+nn
+Up
+Jf
+Jf
+Jf
+Up
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+nn
+Up
+Up
+"}
