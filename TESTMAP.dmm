@@ -1,0 +1,33 @@
+"a" = (/turf/closed/wall/mineral/plastitanium,/area/station)
+"d" = (/obj/machinery/vending/wardrobe/sec_wardrobe/red,/turf/open/floor/iron/dark,/area/station)
+"g" = (/obj/structure/bodycontainer/morgue,/obj/item/storage/medkit/coroner,/turf/open/space/basic,/area/space)
+"h" = (/obj/structure/closet,/obj/item/gun/ballistic/automatic/pistol/sol/evil,/obj/item/gun/ballistic/shotgun/riot/sol/evil,/obj/item/gun/ballistic/automatic/sol_rifle/evil,/obj/item/gun/ballistic/automatic/sol_grenade_launcher/evil,/obj/item/gun/ballistic/automatic/sol_smg/evil,/obj/item/melee/baton/telescopic,/turf/open/floor/carpet/royalblack,/area/station)
+"i" = (/obj/item/storage/medkit/tactical,/turf/open/space/basic,/area/space)
+"j" = (/turf/open/floor/iron/white/small,/area/space)
+"l" = (/obj/machinery/door/airlock/security/old/glass,/turf/open/floor/iron/dark,/area/station)
+"m" = (/obj/structure/closet/crate/large,/obj/machinery/portable_atmospherics/canister/oxygen,/turf/open/floor/carpet/royalblack,/area/station)
+"n" = (/obj/item/storage/medkit/advanced,/turf/open/space/basic,/area/space)
+"r" = (/obj/structure/bodycontainer/morgue{dir = 1},/obj/item/storage/medkit,/turf/open/space/basic,/area/space)
+"t" = (/obj/item/storage/toolbox/syndicate,/obj/item/storage/toolbox/electrical,/turf/open/floor/iron/dark/small,/area/station)
+"u" = (/obj/structure/closet/crate,/obj/item/dualsaber,/obj/item/clothing/glasses/hud/security/sunglasses/redsec,/obj/item/clothing/glasses/hud/security/redsec,/obj/item/storage/toolbox/mechanical,/turf/open/floor/carpet/royalblack,/area/station)
+"v" = (/obj/item/fireaxe/metal_h2_axe,/turf/open/floor/iron/dark,/area/station)
+"w" = (/obj/item/fireaxe/energy,/obj/machinery/power/apc/auto_name/directional/north,/turf/open/floor/iron/dark/small,/area/station)
+"A" = (/obj/machinery/door/airlock/grunge,/turf/open/floor/mineral/plastitanium,/area/station)
+"C" = (/obj/structure/window/reinforced/plasma/plastitanium,/turf/open/floor/plating,/area/station)
+"D" = (/obj/machinery/door/airlock/hatch,/turf/open/floor/plating,/area/station)
+"F" = (/turf/closed/wall/mineral/plastitanium/nodiagonal,/area/station)
+"G" = (/obj/item/uplink,/turf/open/floor/mineral/plastitanium/red,/area/station)
+"O" = (/turf/open/floor/catwalk_floor/iron_dark,/area/space)
+"P" = (/obj/machinery/light/floor,/obj/item/ammo_box/advanced/s12gauge/buckshot,/turf/open/floor/mineral/plastitanium/red,/area/station)
+"S" = (/obj/structure/bed,/obj/item/bedsheet/black,/obj/item/storage/medkit/toxin,/turf/open/floor/wood/large,/area/station)
+"T" = (/obj/machinery/door/airlock/engineering,/turf/open/floor/iron/dark/small,/area/station)
+"X" = (/obj/structure/closet/crate/large/import,/obj/item/modular_computer/pda/nukeops,/obj/item/modular_computer/pda/chameleon,/obj/item/card/id/advanced/chameleon,/obj/item/card/id/advanced/chameleon/black,/obj/item/folder/syndicate/red,/obj/item/folder/red,/obj/item/folder/syndicate,/obj/item/folder,/turf/open/floor/carpet/royalblack,/area/station)
+"Y" = (/obj/item/trench_tool,/turf/open/floor/mineral/plastitanium/red,/area/station)
+
+(1,1,1) = {"
+ingraDaaaj
+FCCCaYASaO
+CXhdaPaaaa
+CmuvlGTtwa
+FCCCaaCCCa
+"}

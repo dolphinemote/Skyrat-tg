@@ -6,6 +6,7 @@
 	layer = SHUTTER_LAYER
 	closingLayer = SHUTTER_LAYER
 	damage_deflection = 20
+	smoothing_groups = list(SMOOTH_GROUP_AIRLOCK)
 	armor_type = /datum/armor/poddoor_shutters
 	max_integrity = 100
 	recipe_type = /datum/crafting_recipe/shutters

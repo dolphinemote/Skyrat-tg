@@ -1,0 +1,193 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/closed/wall/mineral/plastitanium,
+/area/station)
+"d" = (
+/obj/machinery/door/airlock/grunge,
+/turf/open/floor/mineral/plastitanium,
+/area/station)
+"f" = (
+/obj/item/uplink,
+/turf/open/floor/mineral/plastitanium/red,
+/area/station)
+"i" = (
+/obj/structure/closet,
+/obj/item/gun/ballistic/automatic/pistol/sol/evil,
+/obj/item/gun/ballistic/shotgun/riot/sol/evil,
+/obj/item/gun/ballistic/automatic/sol_rifle/evil,
+/obj/item/gun/ballistic/automatic/sol_grenade_launcher/evil,
+/obj/item/gun/ballistic/automatic/sol_smg/evil,
+/obj/item/melee/baton/telescopic,
+/turf/open/floor/carpet/royalblack,
+/area/station)
+"j" = (
+/obj/machinery/door/airlock/hatch,
+/turf/open/floor/plating,
+/area/station)
+"l" = (
+/obj/machinery/door/airlock/engineering,
+/turf/open/floor/mineral/plastitanium,
+/area/station)
+"o" = (
+/obj/item/trench_tool,
+/turf/open/floor/mineral/plastitanium/red,
+/area/station)
+"q" = (
+/obj/machinery/vending/wardrobe/sec_wardrobe/red,
+/turf/open/floor/carpet/royalblack,
+/area/station)
+"s" = (
+/obj/item/fireaxe/energy,
+/obj/machinery/power/apc/auto_name/directional/north,
+/turf/open/floor/mineral/plastitanium,
+/area/station)
+"v" = (
+/obj/structure/bodycontainer/morgue{
+	dir = 1
+	},
+/obj/item/storage/medkit,
+/turf/open/space/basic,
+/area/space)
+"w" = (
+/obj/structure/bed,
+/obj/item/bedsheet/black,
+/obj/item/storage/medkit/toxin,
+/turf/open/floor/wood/large,
+/area/station)
+"y" = (
+/obj/machinery/light/floor,
+/obj/item/ammo_box/advanced/s12gauge/buckshot,
+/turf/open/floor/mineral/plastitanium/red,
+/area/station)
+"D" = (
+/obj/machinery/door/airlock/security/old/glass,
+/turf/open/floor/mineral/plastitanium,
+/area/station)
+"E" = (
+/obj/structure/bodycontainer/morgue,
+/obj/item/storage/medkit/coroner,
+/turf/open/space/basic,
+/area/space)
+"L" = (
+/obj/item/storage/medkit/advanced,
+/turf/open/space/basic,
+/area/space)
+"N" = (
+/obj/structure/closet/crate/large,
+/obj/machinery/portable_atmospherics/canister/oxygen,
+/turf/open/floor/carpet/royalblack,
+/area/station)
+"P" = (
+/obj/item/storage/medkit/tactical,
+/turf/open/space/basic,
+/area/space)
+"Q" = (
+/obj/structure/window/reinforced/plasma/plastitanium,
+/turf/open/floor/plating,
+/area/station)
+"R" = (
+/obj/item/fireaxe/metal_h2_axe,
+/turf/open/floor/carpet/royalblack,
+/area/station)
+"S" = (
+/obj/structure/closet/crate/large/import,
+/obj/item/modular_computer/pda/nukeops,
+/obj/item/modular_computer/pda/chameleon,
+/obj/item/card/id/advanced/chameleon,
+/obj/item/card/id/advanced/chameleon/black,
+/obj/item/folder/syndicate/red,
+/obj/item/folder/red,
+/obj/item/folder/syndicate,
+/obj/item/folder,
+/turf/open/floor/carpet/royalblack,
+/area/station)
+"T" = (
+/obj/structure/closet/crate,
+/obj/item/dualsaber,
+/obj/item/clothing/glasses/hud/security/sunglasses/redsec,
+/obj/item/clothing/glasses/hud/security/redsec,
+/obj/item/storage/toolbox/mechanical,
+/turf/open/floor/carpet/royalblack,
+/area/station)
+"U" = (
+/turf/closed/wall/mineral/plastitanium/nodiagonal,
+/area/station)
+"V" = (
+/turf/open/space/basic,
+/area/space)
+"Z" = (
+/obj/item/storage/toolbox/syndicate,
+/obj/item/storage/toolbox/electrical,
+/turf/open/floor/mineral/plastitanium,
+/area/station)
+
+(1,1,1) = {"
+P
+U
+Q
+Q
+U
+"}
+(2,1,1) = {"
+L
+Q
+S
+N
+Q
+"}
+(3,1,1) = {"
+E
+Q
+i
+T
+Q
+"}
+(4,1,1) = {"
+v
+Q
+q
+R
+Q
+"}
+(5,1,1) = {"
+a
+a
+a
+D
+a
+"}
+(6,1,1) = {"
+j
+o
+y
+f
+a
+"}
+(7,1,1) = {"
+a
+d
+a
+l
+Q
+"}
+(8,1,1) = {"
+a
+w
+a
+Z
+Q
+"}
+(9,1,1) = {"
+a
+a
+a
+s
+Q
+"}
+(10,1,1) = {"
+V
+V
+a
+a
+a
+"}
