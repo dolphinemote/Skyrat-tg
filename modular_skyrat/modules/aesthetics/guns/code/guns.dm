@@ -106,19 +106,16 @@
 	lefthand_file = 'modular_skyrat/modules/aesthetics/guns/icons/guns_lefthand.dmi'
 	righthand_file = 'modular_skyrat/modules/aesthetics/guns/icons/guns_righthand.dmi'
 
-/obj/item/gun/ballistic/automatic/c20r
-	icon = 'modular_skyrat/modules/aesthetics/guns/icons/guns.dmi'
 
-/obj/item/gun/ballistic/automatic/m90
-	icon = 'modular_skyrat/modules/aesthetics/guns/icons/guns.dmi'
+
+
 /obj/item/gun/ballistic/revolver/c38/detective
 	icon = 'modular_skyrat/modules/aesthetics/guns/icons/guns.dmi'
 
 /obj/item/gun/ballistic/automatic/pistol/aps
 	icon = 'modular_skyrat/modules/aesthetics/guns/icons/guns.dmi'
 
-/obj/item/gun/ballistic/automatic/pistol
-	icon = 'modular_skyrat/modules/aesthetics/guns/icons/guns.dmi'
+
 
 /obj/item/gun/ballistic/automatic/pistol/deagle/regal
 	icon = 'icons/obj/weapons/guns/ballistic.dmi'
@@ -195,7 +192,6 @@
 /obj/item/gun/ballistic/automatic/sniper_rifle
 	name = "sniper rifle"
 	desc = "A long ranged weapon that does significant damage. No, you can't quickscope."
-	icon = 'modular_skyrat/modules/aesthetics/guns/icons/guns_gubman2.dmi'
 	icon_state = "sniper"
 	w_class = WEIGHT_CLASS_BULKY
 	inhand_icon_state = "sniper"
