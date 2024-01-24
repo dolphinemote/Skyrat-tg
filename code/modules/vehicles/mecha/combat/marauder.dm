@@ -113,6 +113,8 @@
 	desc = "Heavy-duty, combat exosuit, developed off of the existing Marauder model."
 	name = "\improper Mauler"
 	ui_theme = "syndicate"
+	icon = 'icons/mob/mecha-big.dmi'
+	pixel_x = -8
 	icon_state = "mauler"
 	base_icon_state = "mauler"
 	accesses = list(ACCESS_SYNDICATE)

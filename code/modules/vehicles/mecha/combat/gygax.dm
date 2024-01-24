@@ -37,6 +37,8 @@
 	desc = "A lightweight exosuit, painted in a dark scheme. This model appears to have some modifications."
 	name = "\improper Dark Gygax"
 	ui_theme = "syndicate"
+	icon = 'icons/mob/mecha-big.dmi'
+	pixel_x = -8
 	icon_state = "darkgygax"
 	base_icon_state = "darkgygax"
 	max_integrity = 300
